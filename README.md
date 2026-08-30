@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./HexaStore.jpg" alt="HexaStore Banner" width="100%" style="border-radius: 10px;" />
+<img src="./HexaStoreECom.Web/wwwroot/Images/Products/Home.jpg" alt="HexaStore Banner" width="100%" style="border-radius: 10px;" />
 
 <br /><br />
 
