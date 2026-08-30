@@ -56,3 +56,12 @@ EF Core Data Management: Leverages Entity Framework Core for database migrations
 Responsive Design: Fully responsive layout built with Bootstrap for desktop, tablet, and mobile devices.
 
 In Short: HexaStore is a well-structured, production-ready e-commerce solution that seamlessly connects product management, shopping carts, secure Stripe payments, and admin controls.
+
+---
+
+
+<div align="center">
+
+<img src="./HexaStoreECom.Web/wwwroot/Images/Products/Home.jpg" alt="HexaStore Preview" width="100%" style="border-radius: 10px;" />
+
+</div>
