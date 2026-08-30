@@ -1,4 +1,24 @@
 "# HexaStoreEcommerce-dotNetCore5-MVC" 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mostafa-Mansour-Kamal/HexaStoreECom/master/HexaStore.jpg" alt="HexaStore Banner" width="100%" style="border-radius: 10px;" />
+
+<br /><br />
+
+# 🛒 HexaStore E-Commerce Platform
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-Mansour-Kamal/HexaStoreECom)
+[![.NET Core](https://img.shields.io/badge/.NET_Core-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-Payment-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+
+</div>
+
+---
+
+
+
 HexaStore is a complete E-Commerce Application built for online shopping, developed using C# and ASP.NET Core MVC.
 
 The application provides a seamless shopping experience divided into two main components:
