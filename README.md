@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mostafa-Mansour-Kamal/HexaStoreECom/master/HexaStore.jpg" alt="HexaStore Banner" width="100%" style="border-radius: 10px;" />
+<img src="./HexaStore.jpg" alt="HexaStore Banner" width="100%" style="border-radius: 10px;" />
 
 <br /><br />
 
